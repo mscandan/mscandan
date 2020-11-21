@@ -21,6 +21,6 @@ We are working on self driving car features and participating in competition for
 - I love Linux. No matter what I don't want to use Windows.
 
 #### Contact Me
-- 📨 [E-mail](mehmetselcukcandan@icloud.com)
+- 📨 [E-mail](mailto:mehmetselcukcandan@icloud.com)
 - 🐦 [Twitter](https://twitter.com/mscandandev)
 - 👜 [LinkedIn](https://www.linkedin.com/in/mehmetselcukcandan)
