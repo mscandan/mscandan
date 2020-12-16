@@ -14,6 +14,13 @@ We are working on self driving car features and participating in competition for
 - Python
 - C, C++, C#
 - JavaScript
+- SQL
+
+#### I have experience with several frameworks that I used them for different projects:
+- React, Angular
+- ExpressJS
+- Dotnet Core MVC, Razor Pages
+- MSSQL, PostgreSQL
 
 #### Fun facts about me:
 - I love coding with C/C++ more than any other programming language.
