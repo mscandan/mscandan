@@ -22,10 +22,7 @@ We are working on self driving car features and participating in competition for
 - Dotnet Core MVC, Razor Pages
 - MSSQL, PostgreSQL
 
-#### Fun facts about me:
-- I love coding with C/C++ more than any other programming language.
-- I hate C# and also other Microsoft Products (except GitHub)
-- I love Linux. No matter what I don't want to use Windows.
+[![mscandan's github stats](https://github-readme-stats.vercel.app/api?username=mscandan)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Contact Me
 - 📨 [E-mail](mailto:mehmetselcukcandan@icloud.com)
