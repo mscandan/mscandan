@@ -22,9 +22,9 @@ We are working on self driving car features and participating in competition for
 - Dotnet Core MVC, Razor Pages
 - MSSQL, PostgreSQL
 
-![](https://github-readme-stats.vercel.app/api?username=mscandan&include_all_commits=true&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=mscandan&include_all_commits=true&show_icons=true&theme=synthwave&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mscandan&layout=compact&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mscandan&layout=compact&theme=synthwave&count_private=true)
 
 #### Contact Me
 - 📨 [E-mail](mailto:mehmetselcukcandan@icloud.com)
