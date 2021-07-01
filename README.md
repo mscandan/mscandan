@@ -23,7 +23,7 @@ We are working on self driving car features and participating in competition for
 
 ![](https://github-readme-stats.vercel.app/api?username=mscandan&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mscandan&layout=compact&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mscandan&exclude_repo=SUBU-TETRA-BMS-Visualization,SUBU-TETRA-VCS-Telemetry&layout=compact&theme=radical&count_private=true)
 
 
 #### Contact Me
