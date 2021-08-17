@@ -21,7 +21,9 @@ We are working on self driving car features and participating in competition for
 - Team Management
 - YouTube Series of Teaching [C++](https://www.youtube.com/playlist?list=PLz6SDisuWfGMvObutG8YyivJ4AES2WA4i) in Turkish
 
-![Metrics](https://metrics.lecoq.io/mscandan?template=terminal&base.metadata=0&languages=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FIstanbul)
+![](https://github-readme-stats.vercel.app/api?username=mscandan&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mscandan&exclude_repo=SUBU-TETRA-BMS-Visualization,SUBU-TETRA-VCS-Telemetry&layout=compact&theme=radical&count_private=true)
 
 #### Contact Me
 - 📨 [E-mail](mailto:mehmetselcukcandan@icloud.com)
