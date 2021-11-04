@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my GitHub profile.
 
-#### My name is Mehmet Selçuk Candan. I am 22 years old Software Engineer from Turkey.
+#### My name is Mehmet Selçuk Candan. I am 23 years old Software Engineer from Turkey.
 I am the team leader of web and mobile app team at Sakarya University of Applied Sciences AISET Autonomous Car Community.
 We are working on self driving car features and participating in competition for self driving cars called TUBITAK Robotaxi.
 
@@ -15,11 +15,6 @@ We are working on self driving car features and participating in competition for
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
-
-#### I am currently learning and working and on:
-- MERN Stack apps.
-- Team Management
-- YouTube Series of Teaching [C++](https://www.youtube.com/playlist?list=PLz6SDisuWfGMvObutG8YyivJ4AES2WA4i) in Turkish
 
 ![](https://github-readme-stats.vercel.app/api?username=mscandan&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 
